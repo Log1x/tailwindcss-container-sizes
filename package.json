@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-container-sizes",
+  "version": "1.0.0",
+  "description": "Tailwind CSS plugin to generate container sizes based on your breakpoints.",
+  "author": "Brandon Nifong <brandon@tendency.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/log1x/tailwindcss-container-sizes.git"
+  },
+  "bugs": "https://github.com/log1x/tailwindcss-container-sizes/issues",
+  "homepage": "https://github.com/log1x/tailwindcss-container-sizes",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-matcher-css": "^1.1.0",
+    "postcss": "^7.0.17",
+    "tailwindcss": "^1.0.4"
+  }
+}
