@@ -110,7 +110,7 @@ test('the plugin uses the built-in containers config and variants', () => {
       }
 
       @media (min-width: 640px) {
-        .sm\:container-sm {
+        .sm\\:container-sm {
           max-width: 640px;
           margin-right: auto;
           margin-left: auto;
@@ -118,7 +118,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .sm\:container-md {
+        .sm\\:container-md {
           max-width: 768px;
           margin-right: auto;
           margin-left: auto;
@@ -126,7 +126,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .sm\:container-lg {
+        .sm\\:container-lg {
           max-width: 1024px;
           margin-right: auto;
           margin-left: auto;
@@ -134,7 +134,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .sm\:container-xl {
+        .sm\\:container-xl {
           max-width: 1280px;
           margin-right: auto;
           margin-left: auto;
@@ -144,7 +144,7 @@ test('the plugin uses the built-in containers config and variants', () => {
       }
 
       @media (min-width: 768px) {
-        .md\:container-sm {
+        .md\\:container-sm {
           max-width: 640px;
           margin-right: auto;
           margin-left: auto;
@@ -152,7 +152,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .md\:container-md {
+        .md\\:container-md {
           max-width: 768px;
           margin-right: auto;
           margin-left: auto;
@@ -160,7 +160,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .md\:container-lg {
+        .md\\:container-lg {
           max-width: 1024px;
           margin-right: auto;
           margin-left: auto;
@@ -168,7 +168,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .md\:container-xl {
+        .md\\:container-xl {
           max-width: 1280px;
           margin-right: auto;
           margin-left: auto;
@@ -178,7 +178,7 @@ test('the plugin uses the built-in containers config and variants', () => {
       }
 
       @media (min-width: 1024px) {
-        .lg\:container-sm {
+        .lg\\:container-sm {
           max-width: 640px;
           margin-right: auto;
           margin-left: auto;
@@ -186,7 +186,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .lg\:container-md {
+        .lg\\:container-md {
           max-width: 768px;
           margin-right: auto;
           margin-left: auto;
@@ -194,7 +194,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .lg\:container-lg {
+        .lg\\:container-lg {
           max-width: 1024px;
           margin-right: auto;
           margin-left: auto;
@@ -202,7 +202,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .lg\:container-xl {
+        .lg\\:container-xl {
           max-width: 1280px;
           margin-right: auto;
           margin-left: auto;
@@ -212,7 +212,7 @@ test('the plugin uses the built-in containers config and variants', () => {
       }
 
       @media (min-width: 1280px) {
-        .xl\:container-sm {
+        .xl\\:container-sm {
           max-width: 640px;
           margin-right: auto;
           margin-left: auto;
@@ -220,7 +220,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .xl\:container-md {
+        .xl\\:container-md {
           max-width: 768px;
           margin-right: auto;
           margin-left: auto;
@@ -228,7 +228,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .xl\:container-lg {
+        .xl\\:container-lg {
           max-width: 1024px;
           margin-right: auto;
           margin-left: auto;
@@ -236,7 +236,7 @@ test('the plugin uses the built-in containers config and variants', () => {
           padding-left: 1.5rem
         }
 
-        .xl\:container-xl {
+        .xl\\:container-xl {
           max-width: 1280px;
           margin-right: auto;
           margin-left: auto;
@@ -273,7 +273,7 @@ test('the plugin allows custom container sizes with theme.container.size', () =>
       }
 
       @media (min-width: 640px) {
-        .sm\:container-xs {
+        .sm\\:container-xs {
           max-width: 480px;
           margin-right: auto;
           margin-left: auto;
@@ -283,7 +283,7 @@ test('the plugin allows custom container sizes with theme.container.size', () =>
       }
 
       @media (min-width: 768px) {
-        .md\:container-xs {
+        .md\\:container-xs {
           max-width: 480px;
           margin-right: auto;
           margin-left: auto;
@@ -293,7 +293,7 @@ test('the plugin allows custom container sizes with theme.container.size', () =>
       }
 
       @media (min-width: 1024px) {
-        .lg\:container-xs {
+        .lg\\:container-xs {
           max-width: 480px;
           margin-right: auto;
           margin-left: auto;
@@ -303,7 +303,7 @@ test('the plugin allows custom container sizes with theme.container.size', () =>
       }
 
       @media (min-width: 1280px) {
-        .xl\:container-xs {
+        .xl\\:container-xs {
           max-width: 480px;
           margin-right: auto;
           margin-left: auto;
