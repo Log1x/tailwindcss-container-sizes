@@ -7,7 +7,7 @@ module.exports = function() {
     _.each(screens, (value, key) => {
       addUtilities({
         [`.container-${key}`]: Object.assign(
-          { maxWidth: value },
+          { maxWidth: value, width: '100%' },
           theme('container.center', false) ? { marginRight: 'auto', marginLeft: 'auto' } : {},
           _.has(theme('container', {}), 'padding')
             ? {
