@@ -1,4 +1,4 @@
-# TailwindCSS Container Sizes Plugin
+# Tailwind CSS Container Sizes Plugin
 
 ![Package Version](https://img.shields.io/npm/v/tailwindcss-container-sizes?style=flat-square)
 ![Package Total Downloads](https://img.shields.io/npm/dt/tailwindcss-container-sizes?style=flat-square)
@@ -85,7 +85,7 @@ $ yarn run test
 
 ## Bug Reports
 
-If you discover a bug in TailwindCSS Container Sizes, please [open an issue](https://github.com/log1x/tailwindcss-container-sizes/issues).
+If you discover a bug in Tailwind CSS Container Sizes, please [open an issue](https://github.com/log1x/tailwindcss-container-sizes/issues).
 
 ## Contributing
 
@@ -93,4 +93,4 @@ Contributing whether it be through PRs, reporting an issue, or suggesting an ide
 
 ## License
 
-TailwindCSS Container Sizes provided under the [MIT License](https://github.com/log1x/tailwindcss-container-sizes/blob/master/LICENSE.md).
+Tailwind CSS Container Sizes provided under the [MIT License](https://github.com/log1x/tailwindcss-container-sizes/blob/master/LICENSE.md).
