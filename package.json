@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-container-sizes",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Tailwind CSS plugin to generate container sizes based on your breakpoints.",
   "author": "Brandon Nifong <brandon@tendency.me>",
   "license": "MIT",
