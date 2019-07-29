@@ -75,7 +75,7 @@ This plugin generates the following utilities:
 }
 ```
 
-## Tests
+## Testing
 
 Tests are handled with [Jest](https://github.com/facebook/jest) and can be ran using:
 
